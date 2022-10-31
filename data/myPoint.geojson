@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features":
+    [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kristiansand",
+          "popupContent": "Norway's summer city!",
+          "radius": 5000
+        },
+        "geometry": {
+          "coordinates": [
+            8,
+            58.14612
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "71 Grader Nord",
+          "popupContent": "Many adventurers have failed their quest of reaching this point",
+          "radius": 5000
+        },
+        "geometry": {
+          "coordinates": [
+            26,
+            71.25255
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+}

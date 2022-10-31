@@ -1,0 +1,18 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "description": "UiA Kristiansand to UiA Grimstad"
+        },
+        "geometry": {
+          "coordinates": [
+            [8.0019333256, 58.1578027021],
+            [8.57813769202658, 58.334773110806964]
+          ],
+          "type": "LineString"
+        }
+      }
+    ]
+  }

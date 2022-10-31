@@ -1,0 +1,3477 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2022-10-29T08:31:22Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/288416026",
+          "amenity": "bar",
+          "name": "Enoteca Svanen",
+          "outdoor_seating": "yes",
+          "toilets:wheelchair": "yes",
+          "website": "http://enotecasvanen.no",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.744831,
+            59.912418
+          ]
+        },
+        "id": "node/288416026"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/292135704",
+          "amenity": "bar",
+          "name": "Parkteateret",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.758175,
+            59.923488
+          ]
+        },
+        "id": "node/292135704"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/292143395",
+          "amenity": "bar",
+          "name": "Bar Boca",
+          "opening_hours:signed": "no",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.759434,
+            59.925191
+          ]
+        },
+        "id": "node/292143395"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/310780981",
+          "amenity": "bar",
+          "name": "Vinbaren Dr. Kneipp",
+          "opening_hours": "Tu-Sa 16:00-24:00",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7572124,
+            59.9197126
+          ]
+        },
+        "id": "node/310780981"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/315233913",
+          "amenity": "bar",
+          "fax": "+47 22336100",
+          "name": "Fridays American Bar",
+          "phone": "+47 22333200",
+          "website": "https://fridays.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.738227,
+            59.9141
+          ]
+        },
+        "id": "node/315233913"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/319980266",
+          "amenity": "bar",
+          "name": "Grønland Gym"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.762921,
+            59.911432
+          ]
+        },
+        "id": "node/319980266"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/356304961",
+          "amenity": "bar",
+          "name": "Cementen",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7286508,
+            58.9706815
+          ]
+        },
+        "id": "node/356304961"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/356305008",
+          "amenity": "bar",
+          "name": "Gnu",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7282153,
+            58.9707567
+          ]
+        },
+        "id": "node/356305008"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/386579903",
+          "amenity": "bar",
+          "name": "Brasserie Britannia",
+          "old_name": "Hjørnet bar",
+          "website": "https://britannia.no/mat-og-drikke/brasserie-britannia-2",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.3992046,
+            63.4317903
+          ]
+        },
+        "id": "node/386579903"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/444668369",
+          "amenity": "bar",
+          "name": "Nåløyet",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7292959,
+            58.9700838
+          ]
+        },
+        "id": "node/444668369"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/460040961",
+          "amenity": "bar",
+          "gay": "yes",
+          "gay:men": "yes",
+          "gay:only": "no",
+          "gay:transgender": "yes",
+          "gay:women": "yes",
+          "lgbtq": "primary",
+          "name": "HoT Open Mind",
+          "note": "Name is [sic]",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7309588,
+            58.9714918
+          ]
+        },
+        "id": "node/460040961"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/460040979",
+          "amenity": "bar",
+          "name": "Holmen bar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7300317,
+            58.9730408
+          ]
+        },
+        "id": "node/460040979"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/613223146",
+          "amenity": "bar",
+          "name": "Hanekam",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7330973,
+            58.9727442
+          ]
+        },
+        "id": "node/613223146"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/617039541",
+          "amenity": "bar",
+          "description": "Largest beer sortie in Norway",
+          "name": "Cardinal",
+          "phone": "+47 98 20 42 00",
+          "website": "http://www.cardinal.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.731303,
+            58.971298
+          ]
+        },
+        "id": "node/617039541"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/617039846",
+          "amenity": "bar",
+          "name": "Newsman",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7315223,
+            58.971027
+          ]
+        },
+        "id": "node/617039846"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/761677699",
+          "amenity": "bar",
+          "name": "Couch",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.758927,
+            59.925838
+          ]
+        },
+        "id": "node/761677699"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/838853685",
+          "amenity": "bar",
+          "name": "Bar Bellini",
+          "opening_hours:signed": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7573918,
+            59.9236161
+          ]
+        },
+        "id": "node/838853685"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/861277508",
+          "amenity": "bar",
+          "description": "Small wine-bar opening fall 2019",
+          "name": "Lasarett"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.766437,
+            59.933287
+          ]
+        },
+        "id": "node/861277508"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/973861440",
+          "amenity": "bar",
+          "name": "The Highbury Pub",
+          "opening_hours": "Mo 15:00-24:00; Tu-Th 15:00-01:00; Fr-Sa 13:00-01:00; Su 14:00-24:00",
+          "phone": "+47 22461771",
+          "website": "https://highbury.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.719017,
+            59.927478
+          ]
+        },
+        "id": "node/973861440"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/973863664",
+          "amenity": "bar",
+          "name": "Den Gamle Major",
+          "opening_hours": "Mo,Tu,Su 12:00-00:30; We,Th 12:00-01:30; Fr,Sa 12:00-03:00",
+          "phone": "22462904",
+          "website": "https://gamlemajor.no/",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7157436,
+            59.9286373
+          ]
+        },
+        "id": "node/973863664"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1188938896",
+          "amenity": "bar",
+          "name": "Broremann Bar",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7301318,
+            58.9735852
+          ]
+        },
+        "id": "node/1188938896"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1250875425",
+          "amenity": "bar",
+          "floor": "1",
+          "name": "Backstage",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.731234,
+            58.9706415
+          ]
+        },
+        "id": "node/1250875425"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1250875463",
+          "amenity": "bar",
+          "floor": "1",
+          "name": "Garman"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7312074,
+            58.9707159
+          ]
+        },
+        "id": "node/1250875463"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1251022459",
+          "amenity": "bar",
+          "name": "Alf & Werner",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7294939,
+            58.9702792
+          ]
+        },
+        "id": "node/1251022459"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1251030088",
+          "amenity": "bar",
+          "name": "Chevy's Rockbar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.731529,
+            58.9711617
+          ]
+        },
+        "id": "node/1251030088"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1251030092",
+          "amenity": "bar",
+          "name": "Rumours"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.731468,
+            58.971166
+          ]
+        },
+        "id": "node/1251030092"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1251040040",
+          "amenity": "bar",
+          "name": "Rush",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7286785,
+            58.970107
+          ]
+        },
+        "id": "node/1251040040"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1251134813",
+          "amenity": "bar",
+          "name": "X. O. Bar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7318885,
+            58.9708132
+          ]
+        },
+        "id": "node/1251134813"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1251134815",
+          "amenity": "bar",
+          "name": "Timbuktu & Taket",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7291063,
+            58.9701662
+          ]
+        },
+        "id": "node/1251134815"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1251166417",
+          "amenity": "bar",
+          "name": "Salsa & Ittepå"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7281803,
+            58.9710877
+          ]
+        },
+        "id": "node/1251166417"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1261916092",
+          "amenity": "bar",
+          "name": "23-25",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7283016,
+            58.9706442
+          ]
+        },
+        "id": "node/1261916092"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1261928680",
+          "amenity": "bar",
+          "name": "Bar Bache"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7311341,
+            58.9727761
+          ]
+        },
+        "id": "node/1261928680"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1262032880",
+          "amenity": "bar",
+          "name": "Kontoret"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7312594,
+            58.9711103
+          ]
+        },
+        "id": "node/1262032880"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1263102026",
+          "amenity": "bar",
+          "name": "Hovmesteren",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7300931,
+            58.9721475
+          ]
+        },
+        "id": "node/1263102026"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1309184662",
+          "amenity": "bar",
+          "name": "Wing's Bar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7803576,
+            59.9297631
+          ]
+        },
+        "id": "node/1309184662"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1401891309",
+          "amenity": "bar",
+          "cuisine": "burger",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Café Fiasco",
+          "toilets:wheelchair": "no",
+          "website": "https://www.fiasco.no/",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.755369,
+            59.912133
+          ]
+        },
+        "id": "node/1401891309"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1408525369",
+          "amenity": "bar",
+          "name": "Pjolter & Punsj",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.733093,
+            58.972449
+          ]
+        },
+        "id": "node/1408525369"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1523679571",
+          "amenity": "bar",
+          "name": "Tiki Bar - Aku Aku",
+          "opening_hours:signed": "no",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7593654,
+            59.9247834
+          ]
+        },
+        "id": "node/1523679571"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1694617028",
+          "amenity": "bar",
+          "name": "BAR Vulkan",
+          "toilets:wheelchair": "yes",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7525961,
+            59.922575
+          ]
+        },
+        "id": "node/1694617028"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1706384194",
+          "amenity": "bar",
+          "contact:facebook": "www.facebook.com/druensvrede",
+          "cuisine": "italian",
+          "name": "Don Pippo",
+          "opening_hours": "Mo-Th 11:00-01:00; Fr-Sa 11:00-03:00",
+          "outdoor_seating": "yes",
+          "phone": "+47 55 31 30 33",
+          "toilets:wheelchair": "no",
+          "website": "http://www.donpippo.no/",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.323011,
+            60.389479
+          ]
+        },
+        "id": "node/1706384194"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1769606907",
+          "amenity": "bar",
+          "name": "Babylon"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7405743,
+            59.9183334
+          ]
+        },
+        "id": "node/1769606907"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1847042341",
+          "amenity": "bar",
+          "name": "Harvey's",
+          "opening_hours": "Tu 15:00-22:00; We 15:00-22:30; Th,Fr 15:00-02:00, Sa 13:00-02:00, Su 13:00-22:30",
+          "phone": "+47 380 72305",
+          "website": "http://www.harveys.no/",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.993387,
+            58.144183
+          ]
+        },
+        "id": "node/1847042341"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1948273754",
+          "amenity": "bar",
+          "contact:email": "barezalounge@gmail.com",
+          "contact:facebook": "https://www.facebook.com/pages/Bareza-lounge-champagne-og-cocktailbar/105548616147221",
+          "contact:phone": "+47 90911538",
+          "contact:website": "http://vikaterrassen.no/butikkoversikt/bareza-lounge",
+          "name": "Bareza Lounge",
+          "opening_hours": "Mo-Th 14:00-22:00; Fr-Sa 14:00-02:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.728377,
+            59.913878
+          ]
+        },
+        "id": "node/1948273754"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1977049662",
+          "amenity": "bar",
+          "email": "kontakt@champagneria.com",
+          "fax": "+47 22202401",
+          "name": "Champagneria",
+          "opening_hours": "Mo-Tu 16:00-01:00; We 16:00-02:00; Th 16:00-03:00; Fr 14:00-03:00; Sa 13:00-03:00",
+          "phone": "+47 21948802",
+          "website": "https://www.champagneria.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.717009,
+            59.915259
+          ]
+        },
+        "id": "node/1977049662"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1988631732",
+          "alt_name": "La Belle Sole",
+          "amenity": "bar",
+          "email": "post@clubnox.no",
+          "facebook": "https://www.facebook.com/NoxOslo",
+          "name": "Club Nox",
+          "opening_hours": "We-Sa 23:00-03:00",
+          "phone": "+47 22554000",
+          "website": "http://www.labellesole.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.718747,
+            59.914369
+          ]
+        },
+        "id": "node/1988631732"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2045479619",
+          "amenity": "bar",
+          "name": "Bristol Bar",
+          "opening_hours": "Mo-Th 16:00-01:30; Fr 16:00-02:30; Sa 13:00-02:30",
+          "website": "https://www.thonhotels.no/hoteller/land/norge/oslo/bristol/mat-og-drikke/bristol-bar/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.739956,
+            59.915114
+          ]
+        },
+        "id": "node/2045479619"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2045493667",
+          "amenity": "bar",
+          "name": "Oak",
+          "opening_hours": "Fr-Sa 23:00-03:30",
+          "website": "http://www.oakoslo.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.72735,
+            59.921099
+          ]
+        },
+        "id": "node/2045493667"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2094150212",
+          "amenity": "bar",
+          "name": "Arkivet",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.731421,
+            58.970948
+          ]
+        },
+        "id": "node/2094150212"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2094150218",
+          "amenity": "bar",
+          "floor": "2",
+          "name": "Yank's",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7312444,
+            58.9706208
+          ]
+        },
+        "id": "node/2094150218"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2125314713",
+          "amenity": "bar",
+          "name": "Kjøkken og Bar",
+          "opening_hours": "Mo-Th 10:00-24:00, Fr 10:00-03:30, Sa 11:00-03:30, Su 12:00-23:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7476697,
+            59.9147593
+          ]
+        },
+        "id": "node/2125314713"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2192322503",
+          "amenity": "bar",
+          "name": "Tilt",
+          "opening_hours": "Mo-Th, Su 15:00-01:30; Fr 15:00-02:30; Sa 15:00-03:30",
+          "website": "http://www.tiltoslo.no/",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.750559,
+            59.916203
+          ]
+        },
+        "id": "node/2192322503"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2275966431",
+          "amenity": "bar",
+          "name": "Bobbys Bar",
+          "website": "http://www.35786.websys.sysedata.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.3995952,
+            63.4338089
+          ]
+        },
+        "id": "node/2275966431"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2284940358",
+          "amenity": "bar",
+          "fax": "+47 23131142",
+          "name": "Palace Grill",
+          "opening_hours": "Mo-Sa 15:00-03:00; Su 15:00-01:00",
+          "phone": "+47 23131140",
+          "website": "https://palacegrill.no/baren_1/",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.720434,
+            59.914307
+          ]
+        },
+        "id": "node/2284940358"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2290143206",
+          "amenity": "bar",
+          "name": "Café Sting"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7316611,
+            58.9720356
+          ]
+        },
+        "id": "node/2290143206"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2302969753",
+          "amenity": "bar",
+          "name": "Moskus",
+          "opening_hours": "We-Sa 18:00-02:30",
+          "website": "http://barmoskus.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.400993,
+            63.433214
+          ]
+        },
+        "id": "node/2302969753"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2383030097",
+          "amenity": "bar",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "No. 19 Cocktail Bar",
+          "website": "http://www.no-19.no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.748285,
+            59.915715
+          ]
+        },
+        "id": "node/2383030097"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2576657076",
+          "amenity": "bar",
+          "email": "post@baroqueoslo.no",
+          "name": "Baroque",
+          "opening_hours": "Th-Sa 22:00-03:00",
+          "phone": "+47 22448044",
+          "website": "https://www.baroqueoslo.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.716466,
+            59.915082
+          ]
+        },
+        "id": "node/2576657076"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2576683410",
+          "amenity": "bar",
+          "email": "Charlie@clubmango.no",
+          "name": "Club Mango",
+          "phone": "+47 22830761",
+          "twitter": "@club_mango",
+          "website": "http://www.clubmango.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.72864,
+            59.913322
+          ]
+        },
+        "id": "node/2576683410"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2698251002",
+          "amenity": "bar",
+          "internet_access": "yes",
+          "internet_access:ssid": "Dutchman",
+          "name": "Flying Dutchman & Havariet pub",
+          "opening_hours": "Mo-Su 15:00-02:30",
+          "outdoor_seating": "yes",
+          "phone": "+47 55 55 31 55",
+          "toilets": "yes",
+          "website": "https://www.zabr.no/barer/flying-dutchman/",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.325013,
+            60.395423
+          ]
+        },
+        "id": "node/2698251002"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2780587774",
+          "amenity": "bar",
+          "fixme": "closed?",
+          "name": "Anexet bar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.8819281,
+            59.9608069
+          ]
+        },
+        "id": "node/2780587774"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2785849016",
+          "amenity": "bar",
+          "name": "Heidis Beer Bar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.735096,
+            59.912402
+          ]
+        },
+        "id": "node/2785849016"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2836198331",
+          "amenity": "bar",
+          "name:en": "Cirkus",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.732935,
+            58.972617
+          ]
+        },
+        "id": "node/2836198331"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2839994018",
+          "amenity": "bar",
+          "name": "Biblioteket Bar",
+          "opening_hours": "Mo-We 18:00-01:30; Th 18:00-03:00; Fr 17:00-03:00; Sa 16:00-03:00",
+          "phone": "+47 55 011885",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.326749,
+            60.395846
+          ]
+        },
+        "id": "node/2839994018"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2840313636",
+          "amenity": "bar",
+          "name": "Bar 3 23",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.319501,
+            60.391505
+          ]
+        },
+        "id": "node/2840313636"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2840313640",
+          "alt_name": "Børskjelleren/Våg",
+          "amenity": "bar",
+          "level": "-1",
+          "name": "Børskjelleren",
+          "opening_hours": "Mo-Th 16:00-01:00; Fr 15:00-02:30; Sa 12:00-02:30; Su 16:00-01:00",
+          "outdoor_seating": "yes",
+          "phone": "+47 55 60 31 20",
+          "website": "www.borskjelleren.no/",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.325635,
+            60.394084
+          ]
+        },
+        "id": "node/2840313640"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2840313645",
+          "alt_name": "Nye Wembley Bar",
+          "amenity": "bar",
+          "name": "Downstairs",
+          "outdoor_seating": "yes",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.320941,
+            60.390221
+          ]
+        },
+        "id": "node/2840313645"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2840313669",
+          "amenity": "bar",
+          "level": "-1",
+          "name": "Sjenerøs",
+          "operator": "Bargruppen"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.325746,
+            60.394067
+          ]
+        },
+        "id": "node/2840313669"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2844681715",
+          "amenity": "bar",
+          "name": "Herr Nilsen",
+          "smoking": "outside",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7409579,
+            59.915423
+          ]
+        },
+        "id": "node/2844681715"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2930084190",
+          "amenity": "bar",
+          "name": "Diskoteket",
+          "opening_hours": "Mo-Sa 20:00-02:30",
+          "smoking": "outside"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.399304,
+            63.433816
+          ]
+        },
+        "id": "node/2930084190"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2949645533",
+          "amenity": "bar",
+          "microbrewery": "yes",
+          "name": "Crowbar & Bryggeri",
+          "opening_hours": "Mo-Su 15:00-03:00, Sa 13:00-03:00",
+          "outdoor_seating": "yes",
+          "phone": "+47 213 86 757",
+          "website": "https://www.crowbryggeri.com"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.753449,
+            59.9172
+          ]
+        },
+        "id": "node/2949645533"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2957446739",
+          "amenity": "bar",
+          "contact:website": "https://enrausbar.no/",
+          "name": "Raus"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.3974436,
+            63.4340235
+          ]
+        },
+        "id": "node/2957446739"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2957446762",
+          "amenity": "bar",
+          "name": "The Mint bar & nightclub"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.3974454,
+            63.4342639
+          ]
+        },
+        "id": "node/2957446762"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2957769633",
+          "amenity": "bar",
+          "name": "Heidi's Bier Bar",
+          "website": "https://www.heidisbierbar.no/byer/trondheim/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.411906,
+            63.434652
+          ]
+        },
+        "id": "node/2957769633"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2958658040",
+          "amenity": "bar",
+          "brewery": "no",
+          "name": "Sondre Ulvan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.354766,
+            63.427518
+          ]
+        },
+        "id": "node/2958658040"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2968701935",
+          "amenity": "bar",
+          "brewery": "various",
+          "email": "trondheim@campingen.no",
+          "name": "Trondheim Camping",
+          "opening_hours": "Mo-Th 15:00-24:00, Fr 15:00-02:00, Sa 12:00-02:00, Su 12:00-23:00",
+          "operator": "M12 Trondheim AS",
+          "outdoor_seating": "yes",
+          "smoking": "outside",
+          "website": "https://www.campingen.no/trondheim",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.401413,
+            63.432741
+          ]
+        },
+        "id": "node/2968701935"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3060093856",
+          "amenity": "bar",
+          "name": "Good Omens",
+          "website": "http://www.goodomens.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.3964408,
+            63.4346413
+          ]
+        },
+        "id": "node/3060093856"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3090736992",
+          "amenity": "bar",
+          "internet_access": "wlan",
+          "name": "Brighton Pub",
+          "name:en": "The Star",
+          "opening_hours": "Mo-Fr 04:00-15:00; Sa 01:00-15:00; Su 08:00-15:00",
+          "smoking": "outside"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.740936,
+            59.91375
+          ]
+        },
+        "id": "node/3090736992"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3097299364",
+          "amenity": "bar",
+          "name": "Bar Polar",
+          "opening_hours": "15:00-01:00, Sa 13:00-01:00",
+          "smoking": "outside"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.770093,
+            59.942383
+          ]
+        },
+        "id": "node/3097299364"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3126017837",
+          "amenity": "bar",
+          "min_age": "18",
+          "name": "Finanshuset",
+          "opening_hours": "24/7",
+          "opening_hours:covid19": "Restricted"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.305203,
+            60.417147
+          ]
+        },
+        "id": "node/3126017837"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3261486242",
+          "amenity": "bar",
+          "name": "Charlie's Bar",
+          "phone": "+47 987 68 156"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.994468,
+            58.143267
+          ]
+        },
+        "id": "node/3261486242"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3392880104",
+          "amenity": "bar",
+          "contact:facebook": "https://www.facebook.com/Izakaya-343430575679537/",
+          "cuisine": "asian",
+          "name": "Izakaya",
+          "opening_hours": "Mo-Sa 17:00-00:30",
+          "opening_hours:kitchen": "Mo-Sa 17:00-22:00",
+          "phone": "+4746345679",
+          "reservation": "no",
+          "website": "http://izakayaoslo.com"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.741777,
+            59.918204
+          ]
+        },
+        "id": "node/3392880104"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3402500588",
+          "amenity": "bar",
+          "name": "Bettola",
+          "opening_hours": "Mo-Th 17:00-01:00; Fr,Sa 16:00-03:30"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7596135,
+            59.9183801
+          ]
+        },
+        "id": "node/3402500588"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3409107012",
+          "amenity": "bar",
+          "name": "Baronen",
+          "note": "Pakistani Barbecue Restaurant",
+          "opening_hours": "11:00-23:00",
+          "outdoor_seating": "yes",
+          "source": "knowledge"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7589651,
+            59.913463
+          ]
+        },
+        "id": "node/3409107012"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3523180305",
+          "amenity": "bar",
+          "contact:website": "http://sia.no/ostsia",
+          "name": "Østsia Kulturhus",
+          "opening_hours": "Mo 11:00-22:00; Tu 11:00-00:00; We 11:00-22:00; Th 11:00-00:00; Fr 11:00-22:00",
+          "operator": "Studentsamskipnaden i Agder (SiA)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.003646,
+            58.163976
+          ]
+        },
+        "id": "node/3523180305"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3527824649",
+          "amenity": "bar",
+          "name": "Politikern",
+          "website": "http://politikern.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.748639,
+            59.915253
+          ]
+        },
+        "id": "node/3527824649"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3544507393",
+          "amenity": "bar",
+          "name": "Times bar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7797926,
+            59.9075349
+          ]
+        },
+        "id": "node/3544507393"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3688547428",
+          "amenity": "bar",
+          "name": "Syng mer",
+          "outdoor_seating": "yes",
+          "toilets:wheelchair": "yes",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7521257,
+            59.9157686
+          ]
+        },
+        "id": "node/3688547428"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3703334816",
+          "amenity": "bar",
+          "name": "Galgeberg Corner"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7802641,
+            59.9071654
+          ]
+        },
+        "id": "node/3703334816"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3934152261",
+          "amenity": "bar",
+          "email": "post@femteiandre.no",
+          "level": "0",
+          "name": "Femte i Andre Bar",
+          "opening_hours": "Mo-Th 18:00-01:00; Fr-Sa 18:00-02:00",
+          "operator": "Strand Hotel",
+          "website": "http://www.femteiandre.no/",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.324029,
+            60.39426
+          ]
+        },
+        "id": "node/3934152261"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3942161690",
+          "amenity": "bar",
+          "name": "Gråsonen Bar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.311172,
+            60.394763
+          ]
+        },
+        "id": "node/3942161690"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3964625321",
+          "amenity": "bar",
+          "name": "TempoTempo",
+          "opening_hours": "Mo-Th 15:00-01:00; Fr-Sa 12:00-02:00",
+          "phone": "+47 46320817",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.329211,
+            60.393558
+          ]
+        },
+        "id": "node/3964625321"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3964626583",
+          "amenity": "bar",
+          "email": "altona@augustin.no",
+          "name": "Altona Vinbar",
+          "opening_hours": "Mo-Th 17:00-00:00; Fr-Sa 17:00-00:30",
+          "outdoor_seating": "yes",
+          "phone": "+47 55 30 40 00",
+          "website": "https://www.augustin.no/vinbar/",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.317888,
+            60.395953
+          ]
+        },
+        "id": "node/3964626583"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3982428986",
+          "amenity": "bar",
+          "contact:facebook": "https://www.facebook.com/Underlig-2174735532576506/",
+          "level": "-1",
+          "name": "Underlig",
+          "opening_hours": "Mo-Fr 18:00-03:00; Sa 14:00-03:00; Su 18:00-03:00",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.323355,
+            60.393192
+          ]
+        },
+        "id": "node/3982428986"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3985714094",
+          "amenity": "bar",
+          "name": "Work-Work",
+          "opening_hours": "Mo-Fr 12:00-00:00; Sa-Su 12:00+",
+          "pub": "gaming_bar",
+          "website": "https://work-work.no/gaming/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.3933047,
+            63.4328722
+          ]
+        },
+        "id": "node/3985714094"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3988515646",
+          "amenity": "bar",
+          "contact:facebook": "https://www.facebook.com/brukbarbergen",
+          "level": "0",
+          "name": "BrukBar",
+          "opening_hours": "Mo-Th 19:00-02:30; Fr-Sa 19:00-02:30",
+          "phone": "+47 55 70 54 15",
+          "toilets:wheelchair": "no",
+          "website": "http://www.brukbarbergen.no/",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.320222,
+            60.390255
+          ]
+        },
+        "id": "node/3988515646"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3993462188",
+          "amenity": "bar",
+          "name": "Frille",
+          "opening_hours": "Mo-Th 15:00-01:00; Fr 15:00-02:00; Sa 12:00-02:00; Su 15:00-01:00",
+          "operator": "Bergen Vinstuer AS",
+          "phone": "+47 55323060"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.326648,
+            60.395036
+          ]
+        },
+        "id": "node/3993462188"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3993462189",
+          "amenity": "bar",
+          "name": "Gjest Baardsens Kjeller",
+          "operator": "Bergen Vinstuer AS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.326861,
+            60.395128
+          ]
+        },
+        "id": "node/3993462189"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3993462196",
+          "amenity": "bar",
+          "contact:facebook": "https://www.facebook.com/nostressbergen",
+          "email": "post@nostressbar.no",
+          "name": "No Stress",
+          "opening_hours": "Mo-Th 17:00-01:30; Fr-Sa 15:00-02:30; Su 17:00-01:00",
+          "operator": "Bargruppen",
+          "outdoor_seating": "yes",
+          "phone": "+47 938 33 312",
+          "website": "https://www.nostressbar.no/",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.326581,
+            60.394913
+          ]
+        },
+        "id": "node/3993462196"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4146265417",
+          "amenity": "bar",
+          "email": "bergen@jacobaall.no",
+          "level": "3",
+          "name": "Jacob Aall Brasserie & Bar",
+          "opening_hours": "Mo-We 11:00-01:30; Th-Sa 11:00-02:30; Su 12:00-01:30",
+          "outdoor_seating": "yes",
+          "phone": "+47 55 30 71 00",
+          "website": "https://www.jacobaall.no/bergen/",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.326048,
+            60.393058
+          ]
+        },
+        "id": "node/4146265417"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4200371878",
+          "amenity": "bar",
+          "name": "nedre løkka",
+          "opening_hours": "Tu 16:00-01:00, We-Sa 16:00-03:00",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7592107,
+            59.9187382
+          ]
+        },
+        "id": "node/4200371878"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4427750714",
+          "amenity": "bar",
+          "name": "Manhattan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.3986347,
+            63.432041
+          ]
+        },
+        "id": "node/4427750714"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4427750716",
+          "amenity": "bar",
+          "name": "Red Piano"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.3986596,
+            63.432101
+          ]
+        },
+        "id": "node/4427750716"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4486492994",
+          "amenity": "bar",
+          "cuisine": "coffee_shop;cake;sandwich;tea",
+          "diet:vegan": "no",
+          "diet:vegetarian": "yes",
+          "indoor_seating": "yes",
+          "internet_access": "wlan",
+          "name": "Café Sør",
+          "name:en": "Café Sør",
+          "opening_hours": "Mo-Su 10:00-03:00",
+          "outdoor_seating": "yes",
+          "toilets:wheelchair": "no",
+          "website": "https://www.cafesor.no/",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7482769,
+            59.9141522
+          ]
+        },
+        "id": "node/4486492994"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4487513892",
+          "amenity": "bar",
+          "cuisine": "coffee_shop;cake;local;sandwich;tea;tapas",
+          "diet:vegetarian": "yes",
+          "email": "post@uhortistroget.no",
+          "internet_access": "wlan",
+          "name:en": "Uhørt",
+          "opening_hours": "Su-Th 11:00-01:00; Fr-Sa 11:00-03:30",
+          "website": "http://uhortistroget.no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.748477,
+            59.914047
+          ]
+        },
+        "id": "node/4487513892"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4566940682",
+          "amenity": "bar",
+          "name": "SYNG",
+          "opening_hours": "Mo-Th 14:00-01:00, Fr-Sa 14:00-03:00, Su 12:00-01:00",
+          "operator": "SYNG",
+          "outdoor_seating": "yes",
+          "phone": "+47 41 52 50 50",
+          "smoking": "outside",
+          "website": "https://syng.no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.755211,
+            59.919651
+          ]
+        },
+        "id": "node/4566940682"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4624121602",
+          "amenity": "bar",
+          "email": "post@bar3.no",
+          "name": "Bar 3",
+          "opening_hours": "Mo-Th 16:00-01:30; Fr-Sa 16:00-01:30; Su 16:00-01:30",
+          "phone": "+47 920 35 412",
+          "website": "https://www.bar3.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.326556,
+            60.396547
+          ]
+        },
+        "id": "node/4624121602"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4665880834",
+          "amenity": "bar",
+          "name": "Vin og Kjokken"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7227025,
+            59.9272953
+          ]
+        },
+        "id": "node/4665880834"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4682353960",
+          "amenity": "bar",
+          "email": "seeyou@hoteloleana.no",
+          "level": "0",
+          "name": "Ácido Cocktail Bar & Restaurant",
+          "phone": "+4755215873",
+          "website": "https://www.hoteloleana.com/acido-cocktailbar-restaurant-bergen/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.3217366,
+            60.3924213
+          ]
+        },
+        "id": "node/4682353960"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4682353961",
+          "amenity": "bar",
+          "level": "1",
+          "name": "STORM Bar",
+          "opening_hours": "Mo-We 12:00-01:30; Th-Sa 12:00-02:30; Su 14:00-01:30",
+          "outdoor_seating": "yes",
+          "website": "https://www.olebullhuset.no/storm-bar/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.322189,
+            60.392279
+          ]
+        },
+        "id": "node/4682353961"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4735009189",
+          "amenity": "bar",
+          "name": "Stage Bar",
+          "opening_hours": "Su-Tu 15:00-03:00; We-Sa 15:00-02:30",
+          "outdoor_seating": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.748618,
+            59.911778
+          ]
+        },
+        "id": "node/4735009189"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4754833645",
+          "amenity": "bar",
+          "name": "Verkstedet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7540467,
+            59.9176866
+          ]
+        },
+        "id": "node/4754833645"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4786575287",
+          "amenity": "bar",
+          "contact:facebook": "https://www.facebook.com/pappabarogsalong/",
+          "name": "Pappa",
+          "start_date": "2020-07-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.323017,
+            60.390528
+          ]
+        },
+        "id": "node/4786575287"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4880928139",
+          "amenity": "bar",
+          "name": "Vin&Vinyl",
+          "opening_hours": "Mo-Fr 16:00-01:00, Sa 12:00-01:00, Su 12:00-01:00",
+          "toilets:wheelchair": "yes",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7574974,
+            59.9189351
+          ]
+        },
+        "id": "node/4880928139"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4966253807",
+          "amenity": "bar",
+          "check_date": "2022-09-19",
+          "name": "Brewgata",
+          "opening_hours": "Su-Th 15:00-02:00, Fr,Sa 14:00-03:30",
+          "website": "https://www.brewgata.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7553601,
+            59.9140589
+          ]
+        },
+        "id": "node/4966253807"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4976732477",
+          "amenity": "bar",
+          "contact:facebook": "https://www.facebook.com/JeppeBergen/",
+          "email": "post@jeppebergen.no",
+          "name": "Jeppe bar",
+          "opening_hours": "Mo-Th 12:00-01:00; Fr-Sa 12:00-02:00; Su 12:00-01:00",
+          "website": "JeppeBergen.no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.326089,
+            60.394437
+          ]
+        },
+        "id": "node/4976732477"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5005278659",
+          "amenity": "bar",
+          "name": "Brus"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.753353,
+            59.9166079
+          ]
+        },
+        "id": "node/5005278659"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5010898145",
+          "amenity": "bar",
+          "name": "Last Monkey",
+          "opening_hours": "Mo-Th 17:00-01:00; Sa-Su 17:00-02:30; Su 17:00-01:00",
+          "phone": "+47 969 10 889"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.327381,
+            60.394109
+          ]
+        },
+        "id": "node/5010898145"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5010898146",
+          "amenity": "bar",
+          "name": "Såpass",
+          "outdoor_seating": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.327653,
+            60.394018
+          ]
+        },
+        "id": "node/5010898146"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5031725933",
+          "amenity": "bar",
+          "indoor_seating": "yes",
+          "name:en": "Khartoum",
+          "outdoor_seating": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.750093,
+            59.917126
+          ]
+        },
+        "id": "node/5031725933"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5043493209",
+          "amenity": "bar",
+          "level": "0",
+          "name": "Altitude",
+          "opening_hours": "Mo-Fr 08:00-21:45; Sa 08:00-19:15; Su 08:00-22:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.2301733,
+            60.2881941
+          ]
+        },
+        "id": "node/5043493209"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5087313732",
+          "amenity": "bar",
+          "email": "post@magdabar.no",
+          "name": "Magda",
+          "opening_hours": "Mo-Tu 17:00-01:30; Fr-Sa 17:00-02:30; Su 17:00-01:00",
+          "outdoor_seating": "no",
+          "website": "https://www.magdabar.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.327496,
+            60.395273
+          ]
+        },
+        "id": "node/5087313732"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5091617747",
+          "amenity": "bar",
+          "name": "Ludos",
+          "opening_hours": "Mo-We 10:00-01:00, Th-Sa 10:00-03:30, Su 12:00-01:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.763434,
+            59.9189592
+          ]
+        },
+        "id": "node/5091617747"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5094785577",
+          "amenity": "bar",
+          "name": "Rett Inn Bar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7547473,
+            59.915148
+          ]
+        },
+        "id": "node/5094785577"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5101765653",
+          "amenity": "bar",
+          "name": "Django"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7589126,
+            59.9269088
+          ]
+        },
+        "id": "node/5101765653"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5101765654",
+          "amenity": "bar",
+          "name": "Los Lobos",
+          "opening_hours:signed": "no",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.759369,
+            59.9252427
+          ]
+        },
+        "id": "node/5101765654"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5169876164",
+          "amenity": "bar",
+          "name": "Vineria Ventitude"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7054369,
+            59.9200682
+          ]
+        },
+        "id": "node/5169876164"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5202389883",
+          "amenity": "bar",
+          "microbrewery": "yes",
+          "name": "Brew Lab & Hammerhead Brewing Company taproom",
+          "operator": "Hammerhead Brewing Company",
+          "outdoor_seating": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.363819,
+            63.383922
+          ]
+        },
+        "id": "node/5202389883"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5297822233",
+          "amenity": "bar",
+          "fixme": "Mer detaljer, åpningstider, hvem driver stedet, wifi, handicap, etc",
+          "name": "Nedre Nygård"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.3280185,
+            60.3878562
+          ]
+        },
+        "id": "node/5297822233"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5298106479",
+          "amenity": "bar",
+          "contact:facebook": "https://www.facebook.com/pg/haandslag",
+          "contact:instagram": "haandslag_oslo",
+          "email": "hei@haandslag.no",
+          "name": "Håndslag",
+          "opening_hours": "Mo-Tu 11:00-01:00, We-Sa 11:00-03:00, Su 13:00-01:00",
+          "outdoor_seating": "yes",
+          "phone": "+4723653120",
+          "website": "https://haandslag.no/",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.750084,
+            59.915119
+          ]
+        },
+        "id": "node/5298106479"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5497438578",
+          "amenity": "bar",
+          "level": "0",
+          "name": "Ginialt",
+          "opening_hours": "Mo-Tu 19:00-01:00; We-Th 17:00-01:00; Fr 17:00-02:00; Sa 16:00-02:00; Su 19:00-01:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.321156,
+            60.391487
+          ]
+        },
+        "id": "node/5497438578"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5679328066",
+          "amenity": "bar",
+          "contact:facebook": "https://www.facebook.com/DarknStormyBergen/",
+          "name": "Dark & Stormy",
+          "opening_hours": "Mo-Th 18:00-01:00; Fr-Sa 18:00-02:30",
+          "operator": "Bargruppen",
+          "outdoor_seating": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.327942,
+            60.395323
+          ]
+        },
+        "id": "node/5679328066"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5709510921",
+          "amenity": "bar",
+          "name": "Mysterud Bar",
+          "outdoor_seating": "no",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.755572,
+            59.937551
+          ]
+        },
+        "id": "node/5709510921"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5732712543",
+          "amenity": "bar",
+          "name": "Grå"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.3983182,
+            63.4334141
+          ]
+        },
+        "id": "node/5732712543"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5755249945",
+          "amenity": "bar",
+          "name": "Welhavens Skjenkestue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7305248,
+            59.921129
+          ]
+        },
+        "id": "node/5755249945"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5778266654",
+          "amenity": "bar",
+          "name": "Torggatta Botaniske"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.752161,
+            59.916094
+          ]
+        },
+        "id": "node/5778266654"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5815361153",
+          "amenity": "bar",
+          "name:en": "Perestorjka"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7491595,
+            59.9135458
+          ]
+        },
+        "id": "node/5815361153"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5842067871",
+          "amenity": "bar",
+          "cocktails": "yes",
+          "contact:facebook": "http://facebook.com/andretilhoyre/",
+          "contact:instagram": "andretilhoyre",
+          "email": "hei@andretilhoyre.no",
+          "name": "Andre til høyre",
+          "opening_hours": "Mo-Tu 16:00-01:00, We 16:00-02:00, Th 16:00-03:00, Fr 15:00-03:00, Sa 14:00-03:00, Su 16:00-01:00",
+          "outdoor_seating": "no",
+          "website": "https://www.andretilhoyre.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.750118,
+            59.915106
+          ]
+        },
+        "id": "node/5842067871"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5842082039",
+          "amenity": "bar",
+          "cocktails": "yes",
+          "contact:facebook": "https://www.facebook.com/HIMKOK.OSLO",
+          "name": "Himkok",
+          "opening_hours": "Su-Th 17:00-03:00, Fr-Sa 15:00-03:00",
+          "outdoor_seating": "no",
+          "phone": "+47 22 42 22 02",
+          "website": "https://www.himkok.no/",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.751596,
+            59.914188
+          ]
+        },
+        "id": "node/5842082039"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5864220688",
+          "amenity": "bar",
+          "contact:email": "teaterbaren@engengruppen.no",
+          "contact:facebook": "https://www.facebook.com/taeaterkjellerenDNS/",
+          "name": "Teaterkjelleren",
+          "website": "www.teaterbaren.no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.319924,
+            60.392612
+          ]
+        },
+        "id": "node/5864220688"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5878305486",
+          "amenity": "bar",
+          "brewery": "various",
+          "description": "Retro-styled bar with pool-table",
+          "name": "Bruun-Larsen",
+          "opening_hours": "Mo-Th 17:00-01:00, Fr-Su 14:00-01:00",
+          "outdoor_seating": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.766599,
+            59.933261
+          ]
+        },
+        "id": "node/5878305486"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5884676885",
+          "amenity": "bar",
+          "name:en": "Misfornoyelsesbar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.756217,
+            59.915335
+          ]
+        },
+        "id": "node/5884676885"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5908171026",
+          "amenity": "bar",
+          "name": "Bar Robinet",
+          "opening_hours": "Tu-Sa 19:00-03:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7506471,
+            59.916547
+          ]
+        },
+        "id": "node/5908171026"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5931375413",
+          "amenity": "bar",
+          "contact:facebook": "https://www.facebook.com/clubjur/",
+          "name": "Straffbar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.31421,
+            60.390217
+          ]
+        },
+        "id": "node/5931375413"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6007967385",
+          "amenity": "bar",
+          "name:en": "F6"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.716563,
+            59.91571
+          ]
+        },
+        "id": "node/6007967385"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6055511947",
+          "amenity": "bar",
+          "email": "post@minibarlatino.no",
+          "name": "Minibar latino",
+          "opening_hours": "Mo-Su 21:00-03:00",
+          "website": "https://www.minibarlatino.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.331681,
+            60.392649
+          ]
+        },
+        "id": "node/6055511947"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6136462029",
+          "amenity": "bar",
+          "name": "Bar Albatross",
+          "outdoor_seating": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.762975,
+            59.933903
+          ]
+        },
+        "id": "node/6136462029"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6216289887",
+          "amenity": "bar",
+          "name": "Glød",
+          "name:en": "Glød",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7595427,
+            59.9202711
+          ]
+        },
+        "id": "node/6216289887"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6216331485",
+          "amenity": "bar",
+          "name": "Qadis",
+          "name:en": "Qadis",
+          "opening_hours": "Mo-Th 20:00-03:00, Fr,Sa 16:00-03:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7591659,
+            59.9203354
+          ]
+        },
+        "id": "node/6216331485"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6258737587",
+          "amenity": "bar",
+          "name": "Club 21 Skybar",
+          "opening_hours": "Fr-Su 17:00-24:00+"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.9946539,
+            58.142472
+          ]
+        },
+        "id": "node/6258737587"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6292723037",
+          "amenity": "bar",
+          "name": "Mad Goat Tap House"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7630765,
+            59.9111447
+          ]
+        },
+        "id": "node/6292723037"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6369843061",
+          "amenity": "bar",
+          "level": "1",
+          "name": "No. 53",
+          "outdoor_seating": "no",
+          "smoking": "outside",
+          "website": "https://www.facebook.com/pages/No53/377096115665703"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.767779,
+            59.908696
+          ]
+        },
+        "id": "node/6369843061"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6372803490",
+          "amenity": "bar",
+          "name:en": "the Thief bar",
+          "opening_hours": "Tu-Sa 19:00-01:00",
+          "website": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=989a9d4f9af2a13b4daed9ce1273bf170afdd33072814481259b10595f8b0af1&src_bizid=jt-sU2wkenUmWjllJL7cFA&url=http%3A%2F%2Fwww.thethief.no&website_link_type=website"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.721046,
+            59.907591
+          ]
+        },
+        "id": "node/6372803490"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6418902885",
+          "amenity": "bar",
+          "min_age": "20",
+          "name": "Lokal",
+          "opening_hours": "Mo-Sa 19:00-00:30",
+          "website": "https://www.lokal.bar/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.3984651,
+            63.4320409
+          ]
+        },
+        "id": "node/6418902885"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6427726155",
+          "amenity": "bar",
+          "name": "NATT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.323127,
+            60.393505
+          ]
+        },
+        "id": "node/6427726155"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6677384187",
+          "amenity": "bar",
+          "name:en": "Salt Cafe"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.746735,
+            59.906508
+          ]
+        },
+        "id": "node/6677384187"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6700671099",
+          "amenity": "bar",
+          "name": "Syvende"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.4427413,
+            63.421718
+          ]
+        },
+        "id": "node/6700671099"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6747243389",
+          "amenity": "bar",
+          "name": "Skyline",
+          "opening_hours": "Fr,Sa 00:00-02:30,23:00-24:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.5922152,
+            58.342769
+          ]
+        },
+        "id": "node/6747243389"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6938903597",
+          "amenity": "bar",
+          "name": "Salong"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.3275852,
+            60.3952537
+          ]
+        },
+        "id": "node/6938903597"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6939277215",
+          "amenity": "bar",
+          "name": "Gimlet",
+          "opening_hours": "Tu-Th, Su 14:00-00:00; Fr, Sa 14:00-02:00",
+          "phone": "91321082"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7566,
+            58.967988
+          ]
+        },
+        "id": "node/6939277215"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6964048409",
+          "amenity": "bar",
+          "name": "Brooklyn Diner & Sportsbar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.4137085,
+            63.434414
+          ]
+        },
+        "id": "node/6964048409"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7101240544",
+          "amenity": "bar",
+          "name": "Human Mote",
+          "opening_hours": "Tu-Th 15:00-01:00, Fr-Sa 15:00-03:30, Su 15:00-01:00",
+          "outdoor_seating": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7761921,
+            59.9144876
+          ]
+        },
+        "id": "node/7101240544"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7101264344",
+          "amenity": "bar",
+          "name": "Glasnost Bar",
+          "opening_hours": "15-"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7760097,
+            59.9145857
+          ]
+        },
+        "id": "node/7101264344"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7118275587",
+          "amenity": "bar",
+          "name": "Pier 42",
+          "website": "https://amerikalinjen.com/no/restauranter-i-oslo-sentrum/pier-42/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7497895,
+            59.9105793
+          ]
+        },
+        "id": "node/7118275587"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7166849985",
+          "amenity": "bar",
+          "internet_access": "wlan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7397517,
+            59.9162201
+          ]
+        },
+        "id": "node/7166849985"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7205929885",
+          "amenity": "bar",
+          "name": "Grønland Boulebar & Spiseri",
+          "website": "https://gronlandboule.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.766443,
+            59.911661
+          ]
+        },
+        "id": "node/7205929885"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7702403161",
+          "amenity": "bar",
+          "brewery": "yes",
+          "name": "O'Reillys"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.75719,
+            59.921896
+          ]
+        },
+        "id": "node/7702403161"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7702466086",
+          "amenity": "bar",
+          "brewery": "yes",
+          "description": "Sportsbar",
+          "name": "Lille Andy's Pub"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.713383,
+            59.916603
+          ]
+        },
+        "id": "node/7702466086"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7769439686",
+          "amenity": "bar",
+          "name": "Gråbein",
+          "name:en": "Gråbein"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.765012,
+            59.918647
+          ]
+        },
+        "id": "node/7769439686"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7835103377",
+          "amenity": "bar",
+          "name": "FlyBar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.0752274,
+            58.2030857
+          ]
+        },
+        "id": "node/7835103377"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7858330834",
+          "amenity": "bar",
+          "contact:facebook": "https://www.facebook.com/skur14bergen/",
+          "name": "Skur 14"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.3172095,
+            60.3967623
+          ]
+        },
+        "id": "node/7858330834"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7896308051",
+          "amenity": "bar",
+          "name": "Hør Hør"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7556771,
+            59.9153047
+          ]
+        },
+        "id": "node/7896308051"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7926331276",
+          "amenity": "bar",
+          "name": "Art Bar",
+          "opening_hours": "Mo-Su 16:00-00:30",
+          "outdoor_seating": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7683852,
+            59.9282564
+          ]
+        },
+        "id": "node/7926331276"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8089727217",
+          "amenity": "bar",
+          "name": "Brygga Bar",
+          "opening_hours": "May-Aug Mo-Fr 15:00-23:00; Sa-Su 12:00-23:00; Sep-Apr We 16:00-23:00",
+          "website": "https://www.akerbrygge.no/servering/brygga-bar/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7260908,
+            59.907996
+          ]
+        },
+        "id": "node/8089727217"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8089727264",
+          "amenity": "bar",
+          "email": "hei@brodogsirkus.com",
+          "name": "Brød & Sirkus",
+          "opening_hours": "Tu-Th 16:00-24:00; Fr-Sa 15:00-24:00; Su 17:00-24:00",
+          "phone": "+47 482 99 906",
+          "website": "https://brodogsirkus.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.736285,
+            59.913174
+          ]
+        },
+        "id": "node/8089727264"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8484049764",
+          "amenity": "bar",
+          "name": "NB6",
+          "opening_hours": "Tu-Fr 16:00-24:00; Sa-Su 12:00-24:00",
+          "website": "https://www.nb6.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.4029569,
+            63.4285183
+          ]
+        },
+        "id": "node/8484049764"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8655052233",
+          "amenity": "bar",
+          "lgbtq": "primary",
+          "name": "London Pub",
+          "opening_hours": "Tu-Sa 22:00-03:30",
+          "website": "http://www.londonpub.no/",
+          "wikidata": "Q112701631",
+          "wikipedia": "no:London Pub"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.740624,
+            59.915297
+          ]
+        },
+        "id": "node/8655052233"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8852190598",
+          "amenity": "bar",
+          "name": "Storgata 26",
+          "smoking": "outside"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7520026,
+            59.9139556
+          ]
+        },
+        "id": "node/8852190598"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8936035283",
+          "amenity": "bar",
+          "min_age": "20",
+          "name": "The Wild Rover",
+          "opening_hours": "Mo-Su 13:00-23:00",
+          "opening_hours:covid19": "open"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.747298,
+            59.911629
+          ]
+        },
+        "id": "node/8936035283"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9210952656",
+          "amenity": "bar",
+          "club": "sport",
+          "description": "Fokus på sjakk",
+          "email": "hei@goodknight.no",
+          "name": "The Good Knight",
+          "name:en": "The Good Knight",
+          "opening_hours": "Mo-Th 13:00-00:30; Fr-Sa 13:00-03:30; Su 13:00-21:00",
+          "sport": "chess",
+          "website": "https://goodknight.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.750901,
+            59.916241
+          ]
+        },
+        "id": "node/9210952656"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9446565257",
+          "amenity": "bar",
+          "indoor_seating": "yes",
+          "name": "Ocean Bar",
+          "opening_hours": "Mo-Sa 08:00-03:30, Su 12:00-03:30",
+          "outdoor_seating": "yes",
+          "phone": "+47 22 37 69 99"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7661449,
+            59.9199814
+          ]
+        },
+        "id": "node/9446565257"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9535356417",
+          "amenity": "bar",
+          "name": "Krök"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7502408,
+            59.9148494
+          ]
+        },
+        "id": "node/9535356417"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9567949117",
+          "amenity": "bar",
+          "name": "Kafé Hærverk",
+          "opening_hours": "Su-Th 18:00-03:30; Fr 20:00-00:30; Sa 20:00-03:30",
+          "website": "https://kafe-haerverk.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.752081,
+            59.919175
+          ]
+        },
+        "id": "node/9567949117"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9573613717",
+          "amenity": "bar",
+          "name": "Skaal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.758633,
+            59.923502
+          ]
+        },
+        "id": "node/9573613717"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9664478251",
+          "amenity": "bar",
+          "name": "Perla",
+          "opening_hours": "Su-Th 08:00-17:00, Fr 14:00-01:00",
+          "outdoor_seating": "yes",
+          "phone": "+4793886483",
+          "website": "http://perlabar.no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.769543,
+            59.922576
+          ]
+        },
+        "id": "node/9664478251"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9690305331",
+          "amenity": "bar",
+          "email": "Christian@skagstind.no",
+          "name": "Pokalen",
+          "website": "https://pokalenpub.no/barcode/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7618077,
+            59.9071418
+          ]
+        },
+        "id": "node/9690305331"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9726754410",
+          "amenity": "bar",
+          "min_age": "18",
+          "name": "Pokalen Parkveien",
+          "opening_hours": "Tu-Su 11:00 - 00:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.728048,
+            59.920577
+          ]
+        },
+        "id": "node/9726754410"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9809654542",
+          "amenity": "bar",
+          "name": "Falske reker",
+          "outdoor_seating": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.3235226,
+            60.4049628
+          ]
+        },
+        "id": "node/9809654542"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9905521517",
+          "amenity": "bar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7308958,
+            58.9709417
+          ]
+        },
+        "id": "node/9905521517"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10013758757",
+          "amenity": "bar",
+          "email": "booking.oslo@shufl.com",
+          "name": "Shufl",
+          "opening_hours": "Mo-We 11:00-00:00; Th-Sa 11:00-01:30; Su 12:00-00:00",
+          "website": "https://shufl.com/no/oslo"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7259101,
+            59.9104116
+          ]
+        },
+        "id": "node/10013758757"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10013760611",
+          "amenity": "bar",
+          "email": "hello@ohdearoslo.no",
+          "name": "Oh Dear",
+          "opening_hours": "Tu-Th 16:00-01:00; Fr 15:00-01:00; Sa-Su 13:00-01:00",
+          "phone": "+4792096763",
+          "website": "https://www.ohdearoslo.no/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.7263244,
+            59.910373
+          ]
+        },
+        "id": "node/10013760611"
+      }
+    ]
+  }
