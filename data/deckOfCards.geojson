@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features":
+    [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Deck Of Cards",
+          "popupContent": "52 pick up!\nSee if you can find the Ace of Spades\nHint: Disable this layer to avoid spawning more cards ;)",
+          "radius": 1000
+        },
+        "geometry": {
+          "coordinates": [
+            8,
+            58.14612
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+}
